@@ -1,6 +1,6 @@
 #!/bin/bash
 clear
-rm -rf cupu.sh
+rm -rf WADUH.sh
 rm -rf XolPanel.session
 rm -rf service.session
 rm -rf xolpanel
@@ -46,5 +46,5 @@ echo -e "==============================================="
 echo " Installations complete, type /menu on your bot"
 echo -e "==============================================="
 read -n 1 -s -r -p "Press any key to Back Menu"
-rm -rf cupu.sh
+rm -rf WADUH.sh
 clear
