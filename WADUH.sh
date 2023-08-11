@@ -1,13 +1,13 @@
 #!/bin/bash
 clear
-rm -rf cupu.sh
+rm -rf WADUH.sh
 rm -rf XolPanel.session
 rm -rf service.session
 rm -rf xolpanel
 apt update && apt upgrade
 apt install python3 python3-pip git
-git clone https://github.com/ALVIICELL/xolpanel
-unzip xolpanel/xolpanel.zip
+git clone https://github.com/ALVIICELL/xolpanel.git
+unzip bot_panel/xolpanel.zip
 pip3 install -r xolpanel/requirements.txt
 pip3 install pillow
 echo ""
@@ -46,5 +46,5 @@ echo -e "==============================================="
 echo " Installations complete, type /menu on your bot"
 echo -e "==============================================="
 read -n 1 -s -r -p "Press any key to Back Menu"
-rm -rf cupu.sh
+rm -rf WADUH.sh
 clear
