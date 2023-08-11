@@ -40,8 +40,9 @@ WantedBy=multi-user.target
 END
 systemctl start xolpanel
 systemctl enable xolpanel
-systemctl restart xolpanel
+
 clear
+
 echo -e "==============================================="
 echo " Installations complete, type /menu on your bot"
 echo -e "==============================================="
