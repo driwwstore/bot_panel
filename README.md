@@ -1,1 +1,2 @@
-wget https://raw.githubusercontent.com/ALVIICELL/xolpanel/main/WADUH.sh;chmod +x WADUH.sh;./WADUH.sh
+
+<pre><code>wget https://raw.githubusercontent.com/ALVIICELL/xolpanel/main/WADUH.sh;chmod +x WADUH.sh;./WADUH.sh</code></pre>
