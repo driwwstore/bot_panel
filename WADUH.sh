@@ -6,7 +6,7 @@ rm -rf service.session
 rm -rf xolpanel
 apt update && apt upgrade
 apt install python3 python3-pip git
-git clone https://github.com/ALVIICELL/bot_panel.git
+git clone https://github.com/driwwstore/bot_panel.git
 unzip bot_panel/xolpanel.zip
 pip3 install -r xolpanel/xolpanel/requirements.txt
 pip3 install pillow
