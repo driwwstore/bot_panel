@@ -1,4 +1,4 @@
-BOT_TOKEN="6135754848:AAGktOrc7F_nCKgQVq_C8f1Gn8vKvGPzNCg" # get this value from @BotFather, required
-ADMIN="5999635647" # your telegram ID, required
-DOMAIN="alvicell.my.id" # your VPS domain, required
+BOT_TOKEN="6424947725:AAER4qbiZd6_lqRM3aon4tyXvLRHvrjbZSM" # get this value from @BotFather, required
+ADMIN="999179587" # your telegram ID, required
+DOMAIN="driwwvpn.my.id" # your VPS domain, required
 
